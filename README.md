@@ -60,7 +60,7 @@ If you want to bypass the setup documentation and jump straight to crunching num
 Dropping your software overhead down to zero stretches your runway, giving you the leverage to arbitrage your living costs and shift operations globally. 
 
 We build free, zero-ad interactive web apps at **[Sogoh.com](https://www.sogoh.com/tools/)** to help you optimize this transition:
-1.  **[Global Geo-Arbitrage PPP Calculator]([http://sogoh.com#calculators](https://www.sogoh.com/tools/geo-arbitrage-ppp-calculator/))**: Compare baseline income purchasing power against local rental markets and real-world costs across 40 technology hubs.
+1.  **[Global Geo-Arbitrage PPP Calculator](https://www.sogoh.com/tools/geo-arbitrage-ppp-calculator/)**: Compare baseline income purchasing power against local rental markets and real-world costs across 40 technology hubs.
 2.  **[Cross-Border Fee Comparison Matrix](https://www.sogoh.com/tools/cross-border-fee-calculator/)**: Expose hidden payment gateway spreads to find out exactly how much cash makes it to your local destination.
 3.  **[IRS FEIE 330-Day Tracker](https://www.sogoh.com/tools/feie-physical-presence-calculator/)**: Track your rolling physical presence window to legally claim the Foreign Earned Income Exclusion.
 
